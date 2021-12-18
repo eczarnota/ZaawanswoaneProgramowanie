@@ -3,5 +3,3 @@ class Links():
         self.movieId = movieId
         self.imdbId = imdbId
         self.tmdbId = tmdbId
-pass
-
