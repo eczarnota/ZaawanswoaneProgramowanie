@@ -14,6 +14,7 @@ class Mieszkanie:
                f'numer mieszkania: {self.numerMieszkania}\n ' \
                f'piętro: {self.pietro}'
 
+
 mieszkanie1 = Mieszkanie(object, 3, 22,1)
 print(mieszkanie1)
 

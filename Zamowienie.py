@@ -14,3 +14,6 @@ class Zamowienie:
                f'Zamowione obiekty: {self.lista_obiektow}\n ' \
                f'Wartosc zamowienia: {self.wartosc_zamowienia}\n ' \
                f'Developer obsługujący zamowienie: {self.developer}'
+
+
+pass
