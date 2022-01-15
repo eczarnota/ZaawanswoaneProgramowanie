@@ -1,5 +1,5 @@
-import Object
 from Object import Object
+
 
 class Mieszkanie:
     def __init__(self, object: Object, iloscPokoi: int, numerMieszkania: int, pietro:int):

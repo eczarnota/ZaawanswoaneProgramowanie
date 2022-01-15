@@ -1,8 +1,9 @@
 from Object import Object
 
+
 class Dom:
-    def __init__(self, adres: str, ilośćPokoi: int, wielkoscDzialki: int, pietra: int):
-        self.adres = adres
+    def __init__(self, object: Object, ilośćPokoi: int, wielkoscDzialki: int, pietra: int):
+        self.object = object
         self.ilośćPokoi = ilośćPokoi
         self.wielkoscDzialki = wielkoscDzialki
         self.pietra = pietra
